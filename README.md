@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sebastian and I'm Fullstack Developer. In my daily basis I'm creating custom design system for my company. <br><br>Usually I work with React and Vue, but now I'm working on add custom AI chat assistant based on GPT Models for supporting our UX Library. I also created custom backend service for handling API calls using Node.js and deployed it on AWS Fargate.<br><br>Feel free in exploring my repositories!<br><br>PS. Most of them are student's project, so the code could not be so good ;)</h2>
+<h2 align="left">Hi 👋! My name is Sebastian and I'm Fullstack Developer. In my daily basis I'm creating custom design system for my company. <br><br>Usually I work with React and Vue, but now I'm working on add custom AI chat assistant based on GPT Models for supporting UX Library. I also created custom backend service for handling API calls using Node.js and deployed it on AWS Fargate.<br><br>Feel free in exploring my repositories!<br><br>PS. Most of them are student's project, so the code could not be so good ;)</h2>
 
 ###
 
